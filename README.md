@@ -1,6 +1,6 @@
-- 👋 <h2>Hi, I’m @Nanthagopal</h2>
+- 👋 <h2 style="justify-content: center">Hi, I’m @Nanthagopal</h2>
 
-- <p align="right">
+ <p align="right">
   <img src="https://www.konkurcomputer.ir/images/blog/History-of-Programming-Languages/Programming-Languages-History.webp" alt="Alt Text" />
 </p>
 
