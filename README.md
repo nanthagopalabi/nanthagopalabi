@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nanthagopal
 
 - <p align="right">
-  <img src="https://iconscout.com/3d-illustration/web-development-6343305" alt="Alt Text" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fanimafoundation.in%2Fportal-website-design%2F&psig=AOvVaw3hGKV1B-agG8vNGZhJS2Np&ust=1703100475151000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjwjvmdnIMDFQAAAAAdAAAAABAD" alt="Alt Text" />
 </p>
 
 - 👀 A passionate full stack developer from India
