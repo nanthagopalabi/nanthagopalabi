@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nanthagopal
 
 - <p align="right">
-  <img src="https://cdni.iconscout.com/illustration/free/thumb/free-developer-2080968-1750498.png" alt="Alt Text" />
+  <img src="https://iconscout.com/3d-illustration/web-development-6343305" alt="Alt Text" />
 </p>
 
 - 👀 A passionate full stack developer from India
