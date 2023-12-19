@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @Nanthagopal
-- 👀 A passionate full stack developer from India
-- <img src="https://cdni.iconscout.com/illustration/free/thumb/free-developer-2080968-1750498.png"  style="align-items: left" alt="Alt Text" />
 
+- <p align="left">
+  <img src="https://cdni.iconscout.com/illustration/free/thumb/free-developer-2080968-1750498.png" alt="Alt Text" />
+</p>
+
+- 👀 A passionate full stack developer from India
 - 🌱 I’m currently learning MERN-full stack developer
 - 💞️ I’m looking to collaborate on innovative projects that involve web and application development, particularly those using the MERN stack.
 - 📫 How to reach me welcum2nantha@gmail.com
