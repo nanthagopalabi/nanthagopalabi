@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nanthagopal
 
-- <p align="left">
+- <p align="right">
   <img src="https://cdni.iconscout.com/illustration/free/thumb/free-developer-2080968-1750498.png" alt="Alt Text" />
 </p>
 
