@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nanthagopal
 
 - <p align="right">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgbu-presnenskij.ru%2Felektronnoe-obraschenie%2F%3Fu%3Dhow-to-turn-anything-into-a-high-quality-gif-qq-0JAY3wTm&psig=AOvVaw3PBKXK8woMusdBqJL6hcTp&ust=1703100768050000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjXm_ienIMDFQAAAAAdAAAAABAm" alt="Alt Text" />
+  <img src="https://cdn.dribbble.com/users/4781516/screenshots/10796279/6e3f47bf33153bd352d684a4d0ddea12.gif" alt="Alt Text" />
 </p>
 
 - 👀 A passionate full stack developer from India
