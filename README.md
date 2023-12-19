@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nanthagopal
 
 - <p align="right">
-  <img src="https://cdn.dribbble.com/users/4781516/screenshots/10796279/6e3f47bf33153bd352d684a4d0ddea12.gif" alt="Alt Text" />
+  <img src="https://www.konkurcomputer.ir/images/blog/History-of-Programming-Languages/Programming-Languages-History.webp" alt="Alt Text" />
 </p>
 
 - 👀 A passionate full stack developer from India
