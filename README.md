@@ -1,10 +1,9 @@
  👋 <h2 style="justify-content: centre">Hi, I’m @Nanthagopal</h2>
 
- <p align="right">
+ <p align="right"width="150px">
   <img src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" alt="Alt Text" />
 </p>     
 
-<!-- https://www.konkurcomputer.ir/images/blog/History-of-Programming-Languages/Programming-Languages-History.webp -->
 - 👀 A passionate full stack developer from India
 - 🌱 I’m currently learning MERN-full stack developer
 - 💞️ I’m looking to collaborate on innovative projects that involve web and application development, particularly those using the MERN stack.
