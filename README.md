@@ -30,4 +30,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Nanthagopal&show_icons=true&rank_icon=github&theme=radical" alt="Nanthagopal" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nanthagopal&show_icons=true&locale=en&layout=compact" alt="Nanthagopal" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nanthagopal&show_icons=true&locale=en" alt="Nanthagopal" /></p>
