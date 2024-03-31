@@ -9,7 +9,7 @@
 
 - 💞️ I’m looking to collaborate on innovative projects that involve web and application development, particularly those using the MERN stack. 
 
-- 👨‍💻 All of my projects are available at [https://neupanesugam.com.np/](https://neupanesugam.com.np/)
+- 👨‍💻 All of my projects are available at [https://github.com/nanthagopalabi](https://github.com/nanthagopalabi)
 
 - 💬 Ask me about **HTML/CSS, JavaScript, ReactJS, MongoDB, ExpressJS, NodeJS **
 
